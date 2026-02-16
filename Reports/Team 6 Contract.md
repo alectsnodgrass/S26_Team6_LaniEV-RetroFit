@@ -1,7 +1,7 @@
 # **Teamwork Contract**
 
 **Team 6**  
-**Team Members:** Alec Snodgrass, George Vaporis, Landon Paul, Nathan Galloway   
+**Team Members:** Alec Snodgrass, George Vaporis, Landon Paul, Nathan Galloway, Parker Branson 
 *Electrical and Computer Engineering Department*  
 *Tennessee Technological University*
 
